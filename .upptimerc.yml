@@ -3,7 +3,7 @@ owner: Kee7702 # Your GitHub organization or username, where this repository liv
 repo: zaxno-uptime # The name of this repository
 
 sites:
-  - name: Zaxno API
+  - name: Zaxno Panel
     url: https://panel.kee6.tk/status
 
 status-website:
