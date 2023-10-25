@@ -6,17 +6,15 @@
     "slug": "zaxno-panel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1578,
-    "timeDay": 138,
-    "timeWeek": 1578,
-    "timeMonth": 1578,
-    "timeYear": 1578,
-    "dailyMinutesDown": {
-      "2023-10-24": 4
-    }
+    "time": 1502,
+    "timeDay": 188,
+    "timeWeek": 1502,
+    "timeMonth": 1502,
+    "timeYear": 1502,
+    "dailyMinutesDown": {}
   }
 ]
