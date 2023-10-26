@@ -4,19 +4,19 @@
     "url": "https://panel.kee6.tk/status",
     "icon": "https://icons.duckduckgo.com/ip3/panel.kee6.tk.ico",
     "slug": "zaxno-panel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1372,
-    "timeDay": 149,
-    "timeWeek": 687,
-    "timeMonth": 1372,
-    "timeYear": 1372,
+    "time": 1314,
+    "timeDay": 183,
+    "timeWeek": 656,
+    "timeMonth": 1314,
+    "timeYear": 1314,
     "dailyMinutesDown": {
-      "2023-10-26": 0
+      "2023-10-26": 11
     }
   }
 ]
