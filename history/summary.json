@@ -4,7 +4,7 @@
     "url": "https://panel.kee6.tk/status",
     "icon": "https://icons.duckduckgo.com/ip3/panel.kee6.tk.ico",
     "slug": "zaxno-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.68%",
@@ -16,6 +16,7 @@
     "timeMonth": 1056,
     "timeYear": 1056,
     "dailyMinutesDown": {
+      "2023-10-29": 0,
       "2023-10-26": 133
     }
   }
