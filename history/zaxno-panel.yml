@@ -1,7 +1,7 @@
 url: https://panel.kee6.tk/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-12T23:18:54.228Z
+status: up
+code: 200
+responseTime: 152
+lastUpdated: 2023-11-12T23:40:01.111Z
 startTime: 2023-02-01T18:41:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
