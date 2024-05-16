@@ -4,12 +4,12 @@ repo: zaxno-uptime # The name of this repository
 
 sites:
   - name: Zaxno Panel
-    url: https://panel.kee6.tk/status
+    url: https://zaxno.kee7702.tk/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.panel.kee6.tk
+  cname: uptime.zaxno.kee7702.tk
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Kee7702/uploads/main/zaxno/favicon.png
   name: Zaxno
