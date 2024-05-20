@@ -4,19 +4,19 @@
     "url": "https://zaxno.kee7702.tk/status",
     "icon": "https://icons.duckduckgo.com/ip3/zaxno.kee7702.tk.ico",
     "slug": "zaxno-panel",
-    "status": "up",
-    "uptime": "87.93%",
-    "uptimeDay": "87.93%",
-    "uptimeWeek": "87.93%",
-    "uptimeMonth": "87.93%",
-    "uptimeYear": "87.93%",
-    "time": 1211,
-    "timeDay": 2750,
-    "timeWeek": 1488,
-    "timeMonth": 1488,
-    "timeYear": 1211,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1235,
+    "timeDay": 2807,
+    "timeWeek": 1602,
+    "timeMonth": 1602,
+    "timeYear": 1235,
     "dailyMinutesDown": {
-      "2024-05-20": 10
+      "2024-05-20": 0
     }
   }
 ]
