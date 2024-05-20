@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Zaxno Panel",
+    "url": "https://zaxno.kee7702.tk/status",
+    "icon": "https://icons.duckduckgo.com/ip3/zaxno.kee7702.tk.ico",
+    "slug": "zaxno-panel",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1197,
+    "timeDay": 3143,
+    "timeWeek": 1442,
+    "timeMonth": 1442,
+    "timeYear": 1197,
+    "dailyMinutesDown": {}
+  }
+]
