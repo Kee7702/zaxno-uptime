@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.zaxno.kee7702.tk
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/Kee7702/uploads/main/zaxno/favicon.png
+  logoUrl: https://static.kee7702.tk/zaxno/favicon.png
   name: Zaxno
 
 # Upptime also supports notifications, assigning issues, and more
